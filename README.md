@@ -32,11 +32,11 @@
 
 ### 🔥 Последние проекты
 <!-- Обновите ссылки на свои актуальные репозитории -->
-1. [Проект Alpha](https://github.com/krutyshkin/project-alpha) - Краткое описание проекта  
-   ![Stars](https://img.shields.io/github/stars/krutyshkin/project-alpha?style=social)
+1. [AutoSMM](https://github.com/krutyshkin/FunPayC-AutoSmm) - Краткое описание проекта  
+   ![Stars](https://img.shields.io/github/stars/krutyshkin/FunPayC-AutoSmm?style=social)
    
-2. [Project Beta](https://github.com/krutyshkin/project-beta) - Краткое описание проекта  
-   ![Last Commit](https://img.shields.io/github/last-commit/krutyshkin/project-beta?color=blue)
+2. [autosmm](https://github.com/krutyshkin/autosmm-fpc) - Краткое описание проекта  
+   ![Last Commit](https://img.shields.io/github/last-commit/krutyshkin/autosmm?color=blue)
 
 ---
 
