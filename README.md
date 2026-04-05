@@ -10,6 +10,8 @@
 
 </div>
 
+<img src="https://raw.githubusercontent.com/krutyshkin/krutyshkin/output/snake.svg" alt="Snake animation" />
+
 ---
 
 ### 🛠️ Технологический стек
